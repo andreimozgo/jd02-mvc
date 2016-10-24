@@ -26,7 +26,7 @@ public class AppTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigourous Test :-)fdsfdf
      */
     //jfjh
     public void testApp() {
@@ -40,4 +40,5 @@ public class AppTest
 =======
 >>>>>>> parent of 84c3c4c... vlad
     My first change done!
+test
 }
