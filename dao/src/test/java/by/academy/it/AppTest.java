@@ -28,6 +28,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
+    //jfjh
     public void testApp() {
         assertTrue(true);
     }
