@@ -17,7 +17,7 @@ public class AppTest
     public AppTest(String testName) {
         super(testName);
     }
-
+//and now we are here
     /**
      * @return the suite of tests being tested
      */
