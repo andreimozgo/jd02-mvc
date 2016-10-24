@@ -32,5 +32,8 @@ public class AppTest
     public void testApp() {
         assertTrue(true);
     }
+<<<<<<< HEAD
 //Something stupid just for changes in project ffff azazazazazaz
+=======
+>>>>>>> parent of 84c3c4c... vlad
 }
